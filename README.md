@@ -40,9 +40,3 @@
 </div>
 
 ---
-
-## Commit
-
-![snake gif](https://raw.githubusercontent.com/nguyengiaquang/nguyengiaquang/output/snake.svg)
-
----
