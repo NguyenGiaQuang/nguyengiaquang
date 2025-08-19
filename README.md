@@ -43,6 +43,6 @@
 
 ## Commit
 
-![snake gif](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/nguyengiaquang/nguyengiaquang/output/snake.svg)
 
 ---
