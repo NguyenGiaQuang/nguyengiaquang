@@ -1,6 +1,6 @@
 ## ✨ About Me
 
-"I’m a Computer Science student passionate about web development and modern technologies. I enjoy building projects with React, Next.js, and Node.js while continuously learning and exploring new tools to grow as a full stack developer."
+"I’m a Information Technology student passionate about web development and modern technologies. I enjoy building projects with React, Next.js, and Node.js while continuously learning and exploring new tools to grow as a full stack developer."
 
 ---
 
